@@ -12,16 +12,16 @@
   <a href="https://t.me/Skyzxz"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://github.com/SammySaam"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/@SkyzENZO?si=BOvo8hxdtiOwDiZn"><br>
-  <a href="https://komarev.com/ghpvc/?username=RynXD-Host&color=blue&style=flat-square&label=Profile+Seen"><img src="https://komarev.com/ghpvc/?username=RynXD-Host&color=blue&style=flat-square&label=Profile+Seen" />
+  <a href="https://komarev.com/ghpvc/?username=SammySaam&color=blue&style=flat-square&label=Profile+Seen"><img src="https://komarev.com/ghpvc/?username=SammySaam&color=blue&style=flat-square&label=Profile+Seen" />
 
 </p>
 
  # Github stats
 <p>
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RynXD-Host&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SammySaam&theme=dracula)
 </p>
 <p>
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RynXD-Host&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SammySaam&theme=dracula)
 </p>
